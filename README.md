@@ -12,7 +12,7 @@ Install Git. Please see the [Git documentation](https://git-scm.com/docs)
 
 Build docker image
 ```
-docker build https://github.com/fylypenko/metrics.git -metrics-app
+docker build https://github.com/fylypenko/metrics.git -t metrics-app
 ```
 Run docker container
 ```
